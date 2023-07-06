@@ -6,3 +6,17 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.navbar {
+    background: transparent;
+}
+
+.navbar.active {
+    background: whitesmoke;
+}
