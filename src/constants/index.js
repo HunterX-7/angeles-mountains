@@ -2,12 +2,12 @@ export const navLinks = [
   {
     id: "history",
     number: "01.",
-    title: "History",
+    title: "HISTORY",
   },
   {
     id: "teams",
     number: "02.",
-    title: "Teams",
+    title: "TEAMS",
   },
 ];
 
