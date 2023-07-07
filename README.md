@@ -34,7 +34,7 @@
 
 Los Angeles Mountains is a comprehensive and dynamic single-page application built using React, Tailwind CSS, and Vite. The application is designed with a focus on usability, ease of navigation, and smooth interactions for users, ensuring a positive experience while using the hiking website.
 
-<img src="./src/assets/Capture.png" alt="app-demo" />
+<img src="./src/assets/screenCapture.png" alt="app-demo" />
 
 </br>
 
