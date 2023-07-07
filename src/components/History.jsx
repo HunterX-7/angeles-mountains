@@ -14,7 +14,9 @@ const History = () => {
               <span className='font-bebas absolute ml-[125px] mt-[35px] font-semibold text-[45px] text-senary tracking-wider hidden md:block'>{navLinks[0].title}</span>
               <span className='font-bebas absolute ml-[75px] mt-[35px] font-semibold text-[25px] text-senary tracking-wider block md:hidden'>{navLinks[0].title}</span>
             </div>
-            <p className='font-lato px-10'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quis aperiam omnis, debitis consequatur labore excepturi maiores est id magnam, voluptate optio doloremque odit nobis rerum? Cumque facere rem maiores! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio velit eveniet quidem nesciunt exercitationem laudantium sunt rerum eligendi expedita numquam autem, placeat, aut quisquam ducimus esse, in optio. Odio, esse!</p>
+            <p className='font-lato xs:text-[18px] text-[12px] px-10'>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quis aperiam omnis, debitis consequatur labore excepturi maiores est id magnam, voluptate optio doloremque odit nobis rerum? Cumque facere rem maiores! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio velit eveniet quidem nesciunt exercitationem laudantium sunt rerum eligendi expedita numquam autem, placeat, aut quisquam ducimus esse, in optio. Odio, esse!
+            </p>
           </div>
         </div>
       </div>
