@@ -18,7 +18,7 @@ const Accorddion = () => {
                 SCHEDULE
               </h3>
               {schedule.map((date) => (
-                <div className='flex flex-row justify-between w-[300px]'>
+                <div className='flex flex-row justify-between w-[300px]' key={date.id}>
                   <p className='font-lato tracking-wide'>{date.date}</p>
                   <p className='font-lato tracking-wide'>{date.title}</p>
                 </div>
@@ -38,7 +38,7 @@ const Accorddion = () => {
                 SCHEDULE
               </h3>
               {schedule.map((date) => (
-                <div className='flex flex-row justify-between w-[300px]'>
+                <div className='flex flex-row justify-between w-[300px]' key={date.id}>
                   <p className='font-lato tracking-wide'>{date.date}</p>
                   <p className='font-lato tracking-wide'>{date.title}</p>
                 </div>
