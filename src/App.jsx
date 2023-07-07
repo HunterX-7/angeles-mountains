@@ -1,6 +1,7 @@
 import React from 'react';
 import styles from './styles';
 import { Navbar, Hero, History, Teams, Footer } from './components';
+import Slider from './components/Slider';
 
 const App = () => {
   return (
@@ -10,7 +11,10 @@ const App = () => {
         <div className='bg-hero-pattern-1 bg-cover bg-no-repeat bg-top'>
           <Hero />
         </div>
-        <History />
+        <div className='bg-hero-pattern-4 bg-cover bg-no-repeat bg-top'>
+          <History />
+          <Slider />
+        </div>
         <Teams />
         <Footer />
       </div>
