@@ -9,6 +9,8 @@ module.exports = {
         secondary: "#474747",
         terciary: "#001429",
         quaternary: "#1F1F1F",
+        quinary: "#55678B",
+        senary: "#414f6b",
       },
       fontFamily: {
         oswald: ["Oswald", "sans-serif"],
