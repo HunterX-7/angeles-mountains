@@ -20,7 +20,7 @@ const Slider = () => {
           }}
         onSlideChange={() => console.log('slide change')}
         onSwiper={(swiper) => console.log(swiper)}
-        className={`bg-slider sm:px-10 sm:py-6 px-2 py-2`}
+        className={`bg-slider sm:px-20 sm:py-6 px-6 py-4`}
       >
         <SwiperSlide><img src={slider1} alt="Slider1" className="d-block shadow-lg rounded w-100 mb-2" /></SwiperSlide>
         <SwiperSlide><img src={slider2} alt="Slider1" className="d-block shadow-lg rounded w-100 mb-2" /></SwiperSlide>

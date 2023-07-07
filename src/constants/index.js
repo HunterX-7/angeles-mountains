@@ -13,19 +13,23 @@ export const navLinks = [
 
 export const schedule = [
     {
-      id: "vestibulum viverra1",
-      title: "Vestibulum viverra",
+      id: "1",
+      date: "25 Nov 2023",
+      title: "Vestibulum Viverra",
     },
     {
-      id: "vestibulum viverra2",
-      title: "Vestibulum viverra",
+      id: "2",
+      date: "28 Nov 2023",
+      title: "Vestibulum Viverra",
     },
     {
-      id: "vestibulum viverra3",
-      title: "Vestibulum viverra",
+      id: "3",
+      date: "18 Dec 2023",
+      title: "Vestibulum Viverra",
     },
     {
-      id: "vestibulum viverra4",
-      title: "Vestibulum viverra",
+      id: "4",
+      date: "7 Jan 2024",
+      title: "Vestibulum Viverra",
     },  
   ];
