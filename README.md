@@ -56,7 +56,7 @@ Los Angeles Mountains is a comprehensive and dynamic single-page application bui
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Comming soon...]()
+- [Live Demo](https://hunterx-7.github.io/angeles-mountains/)
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
